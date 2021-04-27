@@ -1,6 +1,6 @@
 # Obstacle Avoiding Car
 
-In this project I have made an Obstacle Avoiding Car.
+In this project I have made an Obstacle Avoiding Car. It detects the obstacle and changes it's direction automatically.
 
 Componets which is used are:- <br />
 Arduino UNO <br />
